@@ -1,0 +1,6 @@
+
+use_frameworks!
+target 'CustomTabBarSwift' do
+pod 'ProgressHUD'
+
+end
